@@ -1,0 +1,13 @@
+administrator/cache/*
+backup/*
+cache/*
+logs/*
+installation.0/*
+nppBackup
+tmp/*
+/configuration.php
+
+#netbeans specific
+nbproject/*
+!nbproject/project.properties
+!nbproject/project.xml
